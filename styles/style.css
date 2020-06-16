@@ -154,7 +154,7 @@ body.menu-active #Header .logo {
 }
 #HeroBanner {
 	background: url(../images/banner.jpg)no-repeat 0 0 / cover;
-	height: 800px;
+	height: 600px;
 	position: relative;
 }
 #BannerSlider {
@@ -265,6 +265,50 @@ body.menu-active #Header .logo {
 	background-color: #fff;
 	color: #19af83;
 }
+
+.Laptop_2 {
+	padding: 45px 0;
+	background-color: #efefef;
+	position: relative;
+}
+.Laptop_2::before {
+	background: url(../images/improve-business.jpg) no-repeat 0 0;
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 50%;
+	width: 50%;
+	height: 100%;
+}
+.Laptop_2 .laptop-text {
+	padding-left: 12px;
+}
+.Laptop_2 .laptop-text h2 {
+	font: 500 26px/115% 'Open Sans', sans-serif;
+	color: #333;
+	margin: 0 0 30px;
+}
+.Laptop_2 .laptop-text p {
+	font: 400 16px/155% 'Open Sans', sans-serif;
+	color: #333;
+	margin: 0 0 30px;
+}
+.Laptop_2 .laptop-text a {
+	display: inline-block;
+	padding: 10px 30px;
+	background-color: #19af83;
+	border-radius: 28px;
+	color: #fff;
+	transition: all 0.25s ease 0s;
+	border: 1px solid #19af83;
+	font: 400 16px/115% 'Open Sans', sans-serif;
+}
+.Laptop_2 .laptop-text a:hover {
+	transition: all 0.25s ease 0s;
+	background-color: #fff;
+	color: #19af83;
+}
+
 #Gain {
 	padding: 45px 0;
 }

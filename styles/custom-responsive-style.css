@@ -44,6 +44,7 @@
   #BannerSlider .banner-text p {
     font-size: 16px;
     margin-bottom: 14px;
+	margin-top:30px;
   }
   #BannerSlider .bannet-cta a {
     padding: 8px 25px;
@@ -52,21 +53,58 @@
   #BannerSlider .owl-dots {
     bottom: 10px;
   }
-  #Laptop {
+  .Laptop {
     text-align: center;
   }
-  #Laptop .laptop-text {
+  .Laptop .laptop-text {
+	margin-left: 50%;
     padding-top: 15px;
   }
-  #Laptop .laptop-text h2 {
+  .Laptop .laptop-text h2 {
     font-size: 22px;
     margin-bottom: 15px;
   }
-  #Laptop .laptop-text p {
+  .Laptop .laptop-text p {
     font-size: 16px;
   }
-  #Laptop .laptop-text a {
+  .Laptop .laptop-text a {
     font-size: 14px;
+  }
+  .Laptop::before {
+    background: url(../images/improve-business-ipad.jpg) no-repeat center center;
+    width: 100%;
+  }
+  .Laptop .laptop-text h2,
+  .Laptop .laptop-text p {
+    color: #fff;
+  }
+  
+  
+  .Laptop_2 {
+    text-align: center;
+  }
+  .Laptop_2 .laptop-text {
+	margin-left: 50%;
+    padding-top: 15px;
+  }
+  .Laptop_2 .laptop-text h2 {
+    font-size: 22px;
+    margin-bottom: 15px;
+  }
+  .Laptop_2 .laptop-text p {
+    font-size: 16px;
+  }
+  .Laptop_2 .laptop-text a {
+    font-size: 14px;
+  }
+  .Laptop_2::before {
+    background: url(../images/improve-business-ipad.jpg) no-repeat center center;
+    width: 100%;
+	margin-left:50%;
+  }
+  .Laptop .laptop-text h2,
+  .Laptop .laptop-text p {
+    color: #fff;
   }
   #Gain .each-icon .icon-text,
   #Gain .each-icon:hover .icon-wrap {
@@ -124,14 +162,7 @@
     padding: 25px 0;
     margin-bottom: 20px;
   }
-  #Laptop::before {
-    background: url(../images/improve-business-ipad.jpg) no-repeat center center;
-    width: 100%;
-  }
-  #Laptop .laptop-text h2,
-  #Laptop .laptop-text p {
-    color: #fff;
-  }
+  
   #Video .video-icon {
     width: 100%;
   }
