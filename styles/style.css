@@ -154,7 +154,7 @@ body.menu-active #Header .logo {
 }
 #HeroBanner {
 	background: url(../images/banner.jpg)no-repeat 0 0 / cover;
-	height: 630px;
+	height: 700px;
 	position: relative;
 }
 #BannerSlider {
