@@ -27,11 +27,11 @@
     height: 380px;
   }
   #BannerSlider {
-    padding-top: 50px;
+    padding-top: 60px;
     text-align: center;
   }
   #BannerSlider .banner-text {
-    padding-top: 20px;
+    padding-top: 50px;
   }
   #BannerSlider .banner-text h1 {
     font-size: 22px;

@@ -43,7 +43,7 @@ ul, li {
 	line-height: 1.5;
 	color: white;
 	margin-top: 5px;
-	width: 50%;
+	width: 80%;
 }
 
 #Header .menu-wrap {
@@ -154,7 +154,7 @@ body.menu-active #Header .logo {
 }
 #HeroBanner {
 	background: url(../images/banner.jpg)no-repeat 0 0 / cover;
-	height: 700px;
+	height: 800px;
 	position: relative;
 }
 #BannerSlider {
@@ -223,12 +223,12 @@ body.menu-active #Header .logo {
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
 }
-#Laptop {
+.Laptop {
 	padding: 45px 0;
 	background-color: #efefef;
 	position: relative;
 }
-#Laptop::before {
+.Laptop::before {
 	background: url(../images/improve-business.jpg) no-repeat 0 0;
 	content: "";
 	position: absolute;
@@ -237,20 +237,20 @@ body.menu-active #Header .logo {
 	width: 50%;
 	height: 100%;
 }
-#Laptop .laptop-text {
+.Laptop .laptop-text {
 	padding-left: 12px;
 }
-#Laptop .laptop-text h2 {
+.Laptop .laptop-text h2 {
 	font: 500 26px/115% 'Open Sans', sans-serif;
 	color: #333;
 	margin: 0 0 30px;
 }
-#Laptop .laptop-text p {
+.Laptop .laptop-text p {
 	font: 400 16px/155% 'Open Sans', sans-serif;
 	color: #333;
 	margin: 0 0 30px;
 }
-#Laptop .laptop-text a {
+.Laptop .laptop-text a {
 	display: inline-block;
 	padding: 10px 30px;
 	background-color: #19af83;
@@ -260,7 +260,7 @@ body.menu-active #Header .logo {
 	border: 1px solid #19af83;
 	font: 400 16px/115% 'Open Sans', sans-serif;
 }
-#Laptop .laptop-text a:hover {
+.Laptop .laptop-text a:hover {
 	transition: all 0.25s ease 0s;
 	background-color: #fff;
 	color: #19af83;
@@ -317,6 +317,7 @@ body.menu-active #Header .logo {
 #Gain .each-icon .icon-text h3 {
 	color: #fff;
 	margin: 0 0 15px;
+	margin-top:40px;
 	font: 700 20px/115% 'Open Sans', sans-serif;
 }
 #Gain .each-icon .icon-text p {
