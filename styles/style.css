@@ -38,7 +38,7 @@ ul, li {
 
 #Header .company {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 35px;
+	font-size: 30px;
 	font-weight: bold;
 	line-height: 1.5;
 	color: white;
@@ -168,15 +168,15 @@ body.menu-active #Header .logo {
 	width: auto;
 }
 #BannerSlider .banner-text {
-	padding-top: 80px;
+	padding-top: 100px;
 }
 #BannerSlider .banner-text h1 {
-	font: 500 30px/135% 'Open Sans', sans-serif;
+	font: 440 22px/105% 'Open Sans', sans-serif;
 	color: #fff;
 	margin: 0 0 25px;
 }
 #BannerSlider .banner-text p {
-	font: 400 18px/155% 'Open Sans', sans-serif;
+	font: 340 18px/100% 'Open Sans', sans-serif;
 	color: #fff;
 	margin: 0 0 25px;
 	transform: translate();
