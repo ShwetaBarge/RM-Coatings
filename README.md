@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bootstrap Theme - Small Business
 
 [![Click Preview](https://position2.github.io/free-bootstrap-theme-sb/images/leaf-thumbnail.jpg)](https://position2.github.io/free-bootstrap-theme-sb/)
@@ -47,3 +48,9 @@ Download the package then edit the HTML and CSS files included with the template
 # Copyright and License
 
 Copyright 2018-2019 [Position2 Inc](https://www.position2.com/). Code released under the [MIT](https://github.com/Position2/free-bootstrap-theme-sb/blob/master/LICENSE) license.
+=======
+# RM_Coatings
+A website designed for RM Coatings
+
+Hosted on: https://shwetabarge.github.io/RM_Coatings/
+>>>>>>> 3fe88d985fb763ddddee9abeaa7385479aa00ebc
